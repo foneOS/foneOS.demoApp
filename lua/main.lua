@@ -22,8 +22,5 @@ scr:addButton(btn)
 
 keyboard = FoneOSKeyboard.new()
 scr:addKeyboard(keyboard)
-keyboard:Draw(scr)
-
-
 
 fone.layout.current(scr)
